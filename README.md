@@ -7,7 +7,7 @@
 > [본문]
 
 ### 예시
-> “FILM DUMBS feat: 로그인 기능 구현”
+> “FILMDOMS feat: 로그인 기능 구현”
 > - Next Auth 패키지 설치
 > - Prisma DB 어댑터 추가
 
@@ -23,7 +23,7 @@
 
 
 ## ✅ PR Convention (공통)
-> 제목 : FILM DUMBS #(IssueNumber) [포괄적 제목]
+> 제목 : FILMDOMS #(IssueNumber) [포괄적 제목]
 >
 > <작업 내용>
 >
